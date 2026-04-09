@@ -74,7 +74,7 @@ const SignUpPage = () => {
         </div>
 
         {/* FORM */}
-        <form onSubmit={handleSubmit} className="space-y-6 w-full px-10 mb-6">
+        <form onSubmit={handleSubmit} className="space-y-6 w-full px-24  mb-6">
           {/* Full Name Input */}
           <div className="form-control">
             <label className="label">
